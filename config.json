@@ -1,0 +1,16 @@
+{
+  "broker": {
+    "host": "192.168.0.8",
+    "username": "hue",
+    "password": "Ch1l1p3pp3r"
+  },
+  "bridges": [
+    {
+      "host": "192.168.0.93",
+      "username": "3ORQ0n2tiMHmHNP4K3wgW5H3H-SFQ8FN8pOq9cD2",
+      "interval": 1000,
+      "prefix": "hue"
+    }
+  ]
+}
+
